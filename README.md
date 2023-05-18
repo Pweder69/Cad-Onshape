@@ -4,6 +4,8 @@ Documentation for all CAD/onshape assignments that were given in Q1. should incl
 ## Table of contents
 * [Teamwork](#teamwork)
 * [Swing Arm](#swing-arm)
+* [Multi part design](#multi-part-design)
+*
 ***
 ## Teamwork
  In this assignment we were assigned as student 1 or student 2 and we would do the task parallel accordingly as one student would work on one part of the "spinner" and another would work on another.
@@ -43,3 +45,14 @@ This assignment was similar to the previous one as we were tasked with making an
 
 ### Reflection
 This assignment was a good implementation of many things but overall still similar to the previous one as its changes were the difficult part. This is so because the changes show flaws in the design process and not in the design you can have a perfect design that doesn't change because you didn't dimension something or dint use the right constraint. another implementation was the version system to split workflow as being able to change from version to version is  a nice change in the workflow.
+
+## Assemblies 
+In this assignment we were tasked with following a lesson made by onshape to learn how to mate and connect assemblies effectively and properly allow movement within those assemblies 
+
+### Evidence 
+<img src="https://i.imgur.com/nacgN2U.png" width = 300>
+
+this is one of the assemblies that we were tasked with mating
+
+### Reflection
+I didn't really like this assignment as it was harder to follow but easy to do. Overall the concepts were useful for assemblies but considering that 90% of the onshape that i have done is in single part studios i didn't connect with the goal and purpose of the assignment. In the future i would try to more closely read the class and ask for more help.
